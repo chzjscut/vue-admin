@@ -9,11 +9,13 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg)]()
 
-**基于vue的后台管理系统**
+## 描述
 
-## 前序准备
+此为基于vue的图书后台管理系统前台部分，可用作一般的后台管理系统前台通用模板。此项目配合后台部分使用。
 
-你的本地环境需要安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。我们的技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 和 [element-ui](https://github.com/ElemeFE/element)，提前了解和学习这些知识会对使用本项目有很大的帮助。
+## 相关技术
+
+vue+vuex+vue-router+element-ui
 
 
 
