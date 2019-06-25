@@ -11,7 +11,7 @@
 
 ## 描述
 
-此为基于vue的图书后台管理系统前台部分，可用作一般的后台管理系统前台通用模板。此项目配合后台部分使用。
+此为基于vue的图书后台管理系统前台部分，可用作一般的后台管理系统前台通用模板。此项目的后台部分node-locallibrary(https://github.com/chzjscut/node-locallibrary)。
 
 ## 相关技术
 
