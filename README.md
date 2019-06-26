@@ -5,7 +5,7 @@
 # vue-admin
 
 [![vue](https://img.shields.io/badge/vue-2.5.9-brightgreen.svg)](https://github.com/vuejs/vue)
-[![element-ui](https://img.shields.io/badge/element--ui-2.4.0-brightgreen.svg)](https://github.com/ElemeFE/element)]()
+[![element-ui](https://img.shields.io/badge/element--ui-2.4.0-brightgreen.svg)](https://github.com/ElemeFE/element)
 
 ## 描述
 
